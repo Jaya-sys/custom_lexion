@@ -44,8 +44,14 @@
     </lexeme>
        <lexeme>
         <grapheme>बताइयेगा</grapheme>
+        <alias>bataiyega </alias>
+    </lexeme>
+       <lexeme>
+        <grapheme>बताइयेगा</grapheme>
         <alias>Bataiyega </alias>
     </lexeme>
+      
+      
    
     <lexeme><grapheme>खाता संख्या</grapheme><alias>khaata sankhya</alias></lexeme>
       <lexeme>
