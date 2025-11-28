@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="hi-IN">
+ 
+    <!-- Hinglish → Hindi pronunciation words -->
+ 
+    <!-- "मैं" के लिए high-frequency Hinglish mistakes -->
+    <lexeme>
+        <grapheme>मैं</grapheme>
+        <alias>mai</alias>
+    </lexeme>
+ 
+    <lexeme>
+        <grapheme>मैं</grapheme>
+        <alias>mai</alias>
+    </lexeme>
+ 
+    <lexeme>
+        <grapheme>मैं</grapheme>
+        <alias>mai</alias>
+    </lexeme>
+ 
+    <!-- "फिर" -->
+    <lexeme>
+        <grapheme>फिर</grapheme>
+        <alias>fir</alias>
+    </lexeme>
+ 
+    <lexeme>
+        <grapheme>फिरसे</grapheme>
+        <alias>fir se</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>पीओएस आईडी</grapheme>
+        <alias>POS ID </alias>
+    </lexeme>
+      <lexeme>
+        <grapheme>पीओएस आईडी</grapheme>
+        <alias>POS ID </alias>
+    </lexeme>
+       <lexeme>
+        <grapheme>बताइयेगा</grapheme>
+        <alias>Bataiyega </alias>
+    </lexeme>
+   
+    <lexeme><grapheme>खाता संख्या</grapheme><alias>khaata sankhya</alias></lexeme>
+ 
+ 
+ 
+</lexicon>
